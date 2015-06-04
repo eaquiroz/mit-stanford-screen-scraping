@@ -1,0 +1,1296 @@
+first_name,last_name,home_address,company,mit_grad_year,work_address,email,job_title
+Esosa,Amayo,,Apple Inc,,,,Data Scientist
+Dean,Cerrato,,PatientsLikeMe,,,,Data Scientist
+Brian,Cass,,White Ops,,,,Data Scientist
+Daizhuo,Chen,,Dstillery,,,,Data Scientist
+Matthew,Bruchon,,Booz Allen Hamilton,,,,Data Scientist
+Susan,Buchman,,Alcoa Inc.,,,,Senior Data Scientist
+Alan,Ratner,,Retired Knowledge Engineer/Data Scientist,,,,Part-time community college math/physics tutor
+Thomas,Alcorn,,Adharmonics,,,,Data Scientist
+Job,Evers,,Udacity,,,,Data Scientist
+Miaoqing,Fang,,Facebook,,,,Data Scientist
+Katie,Everett,,Twitter Inc,,,,Data Scientist
+Ronald,Focia,,"Aspire Ventures, LLC.",,,,Data Scientist
+David,Bermejo,,Packback Books,,,,Marketing Analyst and Data Scientist
+Brock,Bose,,Accenture,,,,Technology Consultant & Data Scientist
+Edoardo,Conti,,Uber,,,,Data Scientist
+Wojciech,Musial,,Quid,,,,Data Scientist
+Christopher,Cunningham,,HealthSense,,,,Data Scientist
+Arvind,Prabhakar,,AT&T,,,,Senior Data Scientist
+Thomas,Moyer,,Humetica,,,,data scientist
+Marlene,Moyer,,International Business Machines Corporat,,,,Data Scientist
+Ian,Murray,,Humin,,,,Data Scientist
+Luc,Mehl,,Axiom Data Science,,,,Environmental Data Scientist
+Joseph,Marr,,SYNTASAâ¢,,,,Senior Principal Data Scientist
+Jeffrey,Marcus,,Kayak,,,,Senior Data Scientist
+Nargiss,Mouatta,,Spartz,,,,Jr. Data Scientist
+Ting,Mao,,GrabTaxi,,,,Data Scientist
+Christopher,Luhrs,,Facebook,,,,Data Scientist
+Jialing,Li,,Microsoft Corporation,,,,Data Scientist
+Walter,Linde-Zwirble,,Trexin Consulting Inc,,,,"Chief Data Scientist, Health Economics"
+David,Lepzelter,,IgnitionOne,,,,Data Scientist
+Richard,LaPointe,,Facebook,,,,Data Scientist
+Francis,Lam,,Aetion,,,,Principal Data Scientist
+John,Lakness,,,,,,Data Scientist
+Maokai,Lin,,Smarking Inc,,,,Data Scientist
+Uri,Laserson,,Cloudera,,,,Data scientist
+Bharath,Krishnan,,CQuotient,,,,Principal Data Scientist
+Mauricio,Roman,,Loggly,,,,Data Scientist
+Karen,Sittig,,Twitter Inc,,,,Data Scientist
+Mark,Wang,,Employee Stock Option (ESO) Fund,,,,Chief Data Scientist
+Terrance,Barker,,HNC Software - Retired,,,,Sr Staff Scientist
+Mark,Borowsky,,Novartis Institute for Biomedical Research,,,,"Executive Director, Data Analytics"
+Ranee,Brylinski,,Brylinski Research,,,,"Co-Founder, Chief Scientist, Co-CEO"
+James,Thornbrue,,UCSD,,,,Data Scientist
+Anthony,Harkin,,Rochester Institute of Technology,,,,Math Professor
+Emily,Wang,,Uber Technologies,,,,Data Scientist
+Keith,Bonawitz,,,,,,
+Jeffrey,Borowitz,,Giant Oak,,,,Social Scientist
+Michelle,Bonugli,,CACI International,,,,Senior IT Scientist
+Robert,Bieri,,SAIC Science Applications International Corporation,,,,Senior Engineer
+Paul,Bayer,,WSI,,,,Chief Scientist
+Konstantinos,Arkoudas,,Bloomberg R&D,,,,Senior Computer Scientist
+Frank,Bentley,,Yahoo!,,,,Principal Research Scientist
+David,Bacon,,Science Applications International Corporation,,,,"Director, Center for Atmospheric Physics"
+Erik,Lickerman,,,,,,
+Paul,Acosta,,MIT Laboratory for Nuclear Science,,,,Computer Services Group Manager
+Richard,Alexander,,Self Employed,,,,
+Ellie,Graeden,,Gryphon Scientific,,,,Division Director Strategic Systems
+Mona,Vernon,,Thomson Reuters,,,,"VP, Data Innovation Lab"
+Burton,Kaliski,,Verisign,,,,Senior Vice President and CTO
+Ming,Zheng,,QuantGroup,,,,Data Scientist
+George,Lan,,Elsevier,,,,Analytic Product Manager
+John,Greene,,"SRA International, Inc.",,,,"Senior Director, Bioinformatics"
+Douglas,Fenger,,Dart NeuroScience,,,,Scientist
+Kriti,Jain,,,,,,
+Marios,Kagarlis,,"Ventana Systems, Inc",,,,Chief Scientist
+Gary,Gibian,,QinetiQ North America - Technology Solutions Group,,,,Sr Scientist
+Tristan,Jehan,,The Echo Nest,,,,Co-Founder & CEO
+Janet,Johnston,,US Air Force Foreign Military Sales,,,,Scientist/Engineer
+Charles,Jankowski,,Performance Technology Partners,,,,Senior Speech Scientist
+Kris,Homsi,,Nike,,,,sports performance svcs.
+Leah,Hutchison,,"Frontier Technology, Inc",,,,Senior Scientist
+Samuel,Hokin,,IMS / UW-Madison / Carnegie Institution for Science,,,,Senior Developer / Lecturer / Computational Scientist
+Mohibi,Hussain,,MIT,,,,Strategy consultant
+Jennifer,Healey,,Intel Corporation,,,,Research Scientist
+Thomas,Hess,,University of Texas at Austin,,,,Research Scientist
+Timothy,Hazen,,Microsoft,,,,Principal Speech Scientist
+Michael,Gaidis,,HGST/Western Digital,,,,Technologist
+Albert,Galick,,self,,,,self
+Douglas,Foxvog,,Enterra Solutions,,,,
+Anna,Folinsky,,HERE,,,,
+Thomas,Furnas,,Molecular Data Corporation,,,,President
+Christopher,Fischer,,Pellion Technologies,,,,Senior Scientist
+Harry,Feldman,,Computer Sciences Corporation,,,,Senior Computer Scientist
+Donna,Hendrix,,,,,,
+Gilbert,Leung,,Google,,,,Software Engineer
+Andrew,Stein,,Novartis Institute for BioMedical Research,,,,Associate Director
+Mary,Reppy,,Abacalab Inc,,,,Chief Operations Officer
+Tyrone,Smith,,San Bernardino County,,,,Chief Technology Officer
+Nathan,Siemers,,Bristol-Myers Squibb,,,,"Director R&D, Applied Genomics"
+Edward,Sittler,,NASA,,,,Astrophysicist
+David,Shupe,,California Inst of Technology,,,,Senior Staff Scientist
+Timur,Shtatland,,Massachusetts General Hospital,,,,Instructor - bioinformatics
+Steven,Scott,,Princeton Univ,,,,Research Physicist
+Ilya,Shlyakhter,,Broad Institute of MIT and Harvard,,,,Computational Biologist
+Oded,Shaham,,IBM Research,,,,Research Scientist
+David,Saul,,State Street,,,,Senior Vice President & Chief Scientist
+David,Schissel,,General Atomics,,,,Principal Scientist&Group Leader
+Margaret,Sano,,Ocean Surveys,,,,Project Scientist
+Lamar,Ramos,,Infometrix,,,,Chief Scientist
+David,Reiley,,Google,,,,Research Scientist
+Anthony,Polucci,,Veridian,,,,Physicist
+Joseph,Rosenshein,,Ovitz Corporation,,,,Vice President & Chief Technology Officer
+Huai-Min,Zhang,,NOAA National Climatic Data Center,,,,Physical Scientist
+David,Zafrilla-Gonzales,,Synergic Partners,,,,COO CIO (Chief Operations & Innovation Officer)
+Patrick,Wojdowski,,L3 Communications - Ocean Systems Division,,,,Senior Principal Sytems Engineer
+Christian,Wachinger,,MIT CSAIL Laboratory,,,,Postdoctoral Associate
+Edward,Wilson,,INTELLIzation,,,,Chief Scientist
+Steven,Weiss,,JDA Software,,,,Senior Computer Scientist
+Shivkumar,Venkatasubrahmanyam,,Amgen Inc.,,,,Bioinformatics Scientist
+Jason,Salter,,FivePaths LLC,,,,Partner
+Aaron,Ucko,,National Library of Medicine,,,,Staff Scientist
+Heidi,Fox,,"HERE, a Nokia business",,,,Principal Software Engineer
+Leonardo,Urbina,,Hubspot,,,,Senior Software Engineering
+Marcelo,Torres,,Akamai Technologies,,,,Research Scientist
+George,Thompson,,Northrop Grumman,,,,RETIRED Senior Scientist
+Sandeep,Tiwari,,Oracle America Inc.,,,,Scientist
+Douglas,Stewart,,Climatological Consulting Corporation,,,,Consulting Meteorologist
+Martin,Szummer,,University of Cambridge,,,,Senior Researcher
+"Coelho,",Pint,,Quantlab Financial,,,,Quantitatiive Developer
+Divya,Pillai,,Argonne National Laboratory,,,,"Intern, Co-op student in the Schabacker Lab"
+Robert,Phair,,Integrative Bioinformatics Inc,,,,Chief Science Officer
+Jorge,Ortiz,,IBM Research,,,,Research Scientist
+Stephanie,Orellana,,NineSigma Inc.,,,,"Director, Technology Insights Solutions"
+Kyle,Murray,,oDesk,,,,Research Intern
+Christopher,Moore,,TrueFit,,,,Chief Analytics Officer
+Benjamin,Olasov,,"University of California, San Francisco",,,,
+Daniel,Park,,Broad Institute,,,,Computational Biologist
+Ted,Moore,,American Pacific Corporation,,,,Senior Scientist
+Habib,Najm,,,,,,
+Tarjei,Mikkelsen,,Broad Institute,,,,Research Fellow
+Brian,Mickus,,"Gilead Sciences, Inc.",,,,Research Scientist II
+Vikas,Mehrotra,,Tiger Consulting Group,,,,"President, Consulting Services"
+Creve,Maples,,Event Horizon Corporation,,,,CEO
+Lloyd,Treinish,,IBM International Business Machines Corporation,,,,Distinguished Engineer
+John,Makhoul,,BBN Technologies,,,,Chief Scientist
+Matthew,Lockhart,,MIT,,,,Data Analyst
+Mark,Lillibridge,,HP,,,,Principal Research Scientist
+Lawrence,Lyons,,,,,,
+Alexandros,Kyriakides,,ADITESS Ltd,,,,Software Engineer and Research Scientist
+Miriam,Krauss,,National Radio Astronomy Observatory,,,,EVLA Commissioning Postdoctoral Fellow
+Martin,Kohn,,Sentrian Remote Patient Intelligence,,,,Chief Medical Scientist
+Stephen,Kent,,Raytheon BBN Technologies,,,,Chief Scientist - Emeritus
+Deirdre,Kittner,,"Pinney Associates, Inc.",,,,Senior Scientist
+Brian,Keegan,,Harvard Business School,,,,Research Associate
+Manolis,Kamvysselis,,MIT,,,,Professor
+David,Kieda,,Univesity of Utah,,,,"Dean, The Graduate School and Professor"
+Marian,Nodine,,Elastic Knowledge,,,,Chief Scientist
+Joseph,Kaye,,Yahoo,,,,Senior Research Scientist
+Daniel,Feldman,,Lawrence Berkeley National Laboratory,,,,Geological Project Scientist
+Roy,Kamimura,,Intrexon,,,,Senior manager
+Patricia,Engel,,Eastern Research Group,,,,Environmental Scientist
+Roger,Edson,,NOAA/National Weather Service,,,,Science and Operations Officer
+Jerome,Edwards,,Cameron-Cole LLC,,,,President & Co-Founder
+Samuel,Millington,,Amadeus Data Processing GmBH,,,,System Support Engineer
+Tommy,Ebe,,Chemical Abstracts Service,,,,"Senior Scientist, Retired"
+Vishal,Doshi,,,,,,
+Jason,Diffendal,,Pfizer,,,,Manager
+Mavis,Driscoll,,Booz Allen Hamilton,,,,Lead Scientist
+William,DelHagen,,Self,,,,
+Marc,Davis,,Invention Arts,,,,Chief Scientist and Co-Founder
+Larry,Constantine,,Constantine & Lockwood,,,,Chief Scientist
+Bruce,Daniels,,Univ California Santa Cruz,,,,Hydroclimatology Research
+Christiane,Collins,,Astellas Pharma Europe,,,,
+Michele,Covell,,Google Inc.,,,,Research Scientist
+Julie,Cohen,,Weill Cornell Medical College,,,,Research Lab Tech II
+Thomas,Clune,,NASA,,,,Senior Computational Scientist
+Philippe,Cudre-Mauroux,,University of Fribourg,,,,Professor
+Norman,Clerman,,Global Data Consultants,,,,Computer Scientist
+Robert,Chen,,Columbia University,,,,Senior Research Scientist
+Kevin,Chu,,Serendipity Research,,,,Founder/Senior Research Scientist
+Hai,Chen,,"Laboratory for Nuclear Science, MIT",,,,Research Assistant
+Steven,Carlson,,Second Chance Energy Solutions,,,,Property Management
+Charles,Cadieu,,MIT,,,,Postdoc
+Joseph,Camacho,,NumerEx,,,,Staff Scientist
+Lawrence,Bush,,,,,,
+Mehmet,Yunt,,Collective Media,,,,Senior Data Scientist
+Murtaza,Zafer,,Nyansa Inc.,,,,Data Scientist
+Mark,Burstein,,Sift,,,,Principal Scientist
+Brian,Wilt,,Jawbone,,,,Senior Data Scientist
+Victor,Vazquez,,Airbnb,,,,Data Scientist
+Jonathan,Werberg,,Office of the Attorney General,,,,Data Scientist
+Jason,Ventrella,,MITRE,,,,Principal Data Scientist
+Douglas,Twisselmann,,Netflix,,,,Senior Data Scientist
+Sonia,Timberlake,,AbVitro Inc,,,,Senior Data Scientist
+Daniel,Tunkelang,,LinkedIn,,,,Principal Data Scientist
+Diyang,Tang,,Twitter Inc,,,,Data Scientist
+Colin,Taylor,,Ginger.io,,,,Software Engineer / Data Scientist
+Annette,Taberner,,RetailMeNot,,,,Data Scientist
+Peter,Swartz,,Panjiva,,,,Data Scientist
+Christine,Sowa,,Wayfair,,,,Data Scientist
+Peter,Skomoroch,,Data Collective,,,,Principal Data Scientist
+Suresh,Segaran,,Metaweb,,,,Senior Data Scientist
+Jennifer,Seto,,Bloomberg,,,,Data Scientist
+Christopher,Schuch,,Kyruus,,,,Data Scientist
+David,Shera,,AmeriHealth Caritas Family of Companies,,,,Data Scientist
+Sepehr,Sarmadi,,Shutterstock Inc,,,,Data Scientist
+Lucas,Schiefelbein,,SumZero,,,,Data Scientist
+Alexandre,Sahyoun,,Oracle,,,,Data Scientist
+Sharon,Rapoport,,Plaid Technologies Inc.,,,,Data Scientist
+Thomas,Kollar,,Apple Inc,,,,Data Scientist
+Jonathan,Rameseder,,Apple Inc.,,,,Data Scientist
+Benjamin,Joseph,,"Hello, Inc",,,,Data Scientist
+Nathan,Janos,,OpenMail,,,,Principal Data Scientist
+Varun,Ramanujam,,"Facebook, Inc.",,,,Data Scientist
+Jedidiah,Horne,,Uber,,,,Data Scientist
+Aubrey,Jaffer,,Digilent,,,,Data Scientist
+Anh,Huynh,,AdHarmonics,,,,Data Scientist
+Justin,Hemann,,Causata,,,,Principal Data Scientist
+Alexander,Hasha,,Capital One,,,,Applied Data Scientist
+Claudia,Gold,,ClassDojo,,,,Data Scientist
+David,Forney,,SmartDrive,,,,Data Scientist/Sr. Statistical Programmer
+Christine,Choi,,LinkedIn,,,,Data Scientist
+Sharon,Chou,,"FirstFuel Software, Inc.",,,,Data Scientist
+Brian,Harms,,Akamai Technologies,,,,Principal Data Scientist
+Scott,Golder,,Context Relevant,,,,Data Scientist and Staff Sociologist
+first_name,last_name,home_address,company,mit_grad_year,work_address,email,job_title
+Esosa,Amayo,,Apple Inc,,,,Data Scientist
+Brian,Cass,,White Ops,,,,Data Scientist
+Susan,Buchman,,Alcoa Inc.,,,,Senior Data Scientist
+Christine,Choi,,LinkedIn,,,,Data Scientist
+Dean,Cerrato,,PatientsLikeMe,,,,Data Scientist
+Alan,Ratner,,Retired Knowledge Engineer/Data Scientist,,,,Part-time community college math/physics tutor
+Thomas,Alcorn,,Adharmonics,,,,Data Scientist
+Daizhuo,Chen,,Dstillery,,,,Data Scientist
+Brock,Bose,,Accenture,,,,Technology Consultant & Data Scientist
+David,Bermejo,,Packback Books,,,,Marketing Analyst and Data Scientist
+Job,Evers,,Udacity,,,,Data Scientist
+Ronald,Focia,,"Aspire Ventures, LLC.",,,,Data Scientist
+Christopher,Cunningham,,HealthSense,,,,Data Scientist
+Katie,Everett,,Twitter Inc,,,,Data Scientist
+Matthew,Bruchon,,Booz Allen Hamilton,,,,Data Scientist
+Miaoqing,Fang,,Facebook,,,,Data Scientist
+Wojciech,Musial,,Quid,,,,Data Scientist
+Ian,Murray,,Humin,,,,Data Scientist
+Thomas,Moyer,,Humetica,,,,data scientist
+Nargiss,Mouatta,,Spartz,,,,Jr. Data Scientist
+Marlene,Moyer,,International Business Machines Corporat,,,,Data Scientist
+Arvind,Prabhakar,,AT&T,,,,Senior Data Scientist
+Luc,Mehl,,Axiom Data Science,,,,Environmental Data Scientist
+Joseph,Marr,,SYNTASAâ¢,,,,Senior Principal Data Scientist
+Maokai,Lin,,Smarking Inc,,,,Data Scientist
+Ting,Mao,,GrabTaxi,,,,Data Scientist
+Christopher,Luhrs,,Facebook,,,,Data Scientist
+Jialing,Li,,Microsoft Corporation,,,,Data Scientist
+Uri,Laserson,,Cloudera,,,,Data scientist
+David,Lepzelter,,IgnitionOne,,,,Data Scientist
+Walter,Linde-Zwirble,,Trexin Consulting Inc,,,,"Chief Data Scientist, Health Economics"
+Jeffrey,Marcus,,Kayak,,,,Senior Data Scientist
+Anthony,Harkin,,Rochester Institute of Technology,,,,Math Professor
+Terrance,Barker,,HNC Software - Retired,,,,Sr Staff Scientist
+David,Bacon,,Science Applications International Corporation,,,,"Director, Center for Atmospheric Physics"
+Mark,Borowsky,,Novartis Institute for Biomedical Research,,,,"Executive Director, Data Analytics"
+Michelle,Bonugli,,CACI International,,,,Senior IT Scientist
+Ranee,Brylinski,,Brylinski Research,,,,"Co-Founder, Chief Scientist, Co-CEO"
+Keith,Bonawitz,,,,,,
+Jeffrey,Borowitz,,Giant Oak,,,,Social Scientist
+Robert,Bieri,,SAIC Science Applications International Corporation,,,,Senior Engineer
+Frank,Bentley,,Yahoo!,,,,Principal Research Scientist
+Paul,Bayer,,WSI,,,,Chief Scientist
+Konstantinos,Arkoudas,,Bloomberg R&D,,,,Senior Computer Scientist
+Paul,Acosta,,MIT Laboratory for Nuclear Science,,,,Computer Services Group Manager
+Erik,Lickerman,,,,,,
+Richard,Alexander,,Self Employed,,,,
+Ellie,Graeden,,Gryphon Scientific,,,,Division Director Strategic Systems
+Burton,Kaliski,,Verisign,,,,Senior Vice President and CTO
+Mona,Vernon,,Thomson Reuters,,,,"VP, Data Innovation Lab"
+George,Lan,,Elsevier,,,,Analytic Product Manager
+Ming,Zheng,,QuantGroup,,,,Data Scientist
+Murtaza,Zafer,,Nyansa Inc.,,,,Data Scientist
+Brian,Wilt,,Jawbone,,,,Senior Data Scientist
+Mark,Wang,,Employee Stock Option (ESO) Fund,,,,Chief Data Scientist
+Jonathan,Werberg,,Office of the Attorney General,,,,Data Scientist
+Mehmet,Yunt,,Collective Media,,,,Senior Data Scientist
+Jason,Ventrella,,MITRE,,,,Principal Data Scientist
+Emily,Wang,,Uber Technologies,,,,Data Scientist
+Douglas,Fenger,,Dart NeuroScience,,,,Scientist
+Mohibi,Hussain,,MIT,,,,Strategy consultant
+Marios,Kagarlis,,"Ventana Systems, Inc",,,,Chief Scientist
+Gary,Gibian,,QinetiQ North America - Technology Solutions Group,,,,Sr Scientist
+Janet,Johnston,,US Air Force Foreign Military Sales,,,,Scientist/Engineer
+Charles,Jankowski,,Performance Technology Partners,,,,Senior Speech Scientist
+Tristan,Jehan,,The Echo Nest,,,,Co-Founder & CEO
+Leah,Hutchison,,"Frontier Technology, Inc",,,,Senior Scientist
+Kris,Homsi,,Nike,,,,sports performance svcs.
+Samuel,Hokin,,IMS / UW-Madison / Carnegie Institution for Science,,,,Senior Developer / Lecturer / Computational Scientist
+Thomas,Hess,,University of Texas at Austin,,,,Research Scientist
+Kriti,Jain,,,,,,
+Donna,Hendrix,,,,,,
+Jennifer,Healey,,Intel Corporation,,,,Research Scientist
+John,Greene,,"SRA International, Inc.",,,,"Senior Director, Bioinformatics"
+Albert,Galick,,self,,,,self
+Thomas,Furnas,,Molecular Data Corporation,,,,President
+Douglas,Foxvog,,Enterra Solutions,,,,
+Timothy,Hazen,,Microsoft,,,,Principal Speech Scientist
+Heidi,Fox,,"HERE, a Nokia business",,,,Principal Software Engineer
+Michael,Gaidis,,HGST/Western Digital,,,,Technologist
+Anna,Folinsky,,HERE,,,,
+Mark,Lillibridge,,HP,,,,Principal Research Scientist
+Brian,Keegan,,Harvard Business School,,,,Research Associate
+Samuel,Millington,,Amadeus Data Processing GmBH,,,,System Support Engineer
+Andrew,Stein,,Novartis Institute for BioMedical Research,,,,Associate Director
+Jorge,Ortiz,,IBM Research,,,,Research Scientist
+Edward,Sittler,,NASA,,,,Astrophysicist
+David,Shupe,,California Inst of Technology,,,,Senior Staff Scientist
+Tyrone,Smith,,San Bernardino County,,,,Chief Technology Officer
+Nathan,Siemers,,Bristol-Myers Squibb,,,,"Director R&D, Applied Genomics"
+Timur,Shtatland,,Massachusetts General Hospital,,,,Instructor - bioinformatics
+Ilya,Shlyakhter,,Broad Institute of MIT and Harvard,,,,Computational Biologist
+Oded,Shaham,,IBM Research,,,,Research Scientist
+Steven,Scott,,Princeton Univ,,,,Research Physicist
+David,Saul,,State Street,,,,Senior Vice President & Chief Scientist
+Jason,Salter,,FivePaths LLC,,,,Partner
+Joseph,Rosenshein,,Ovitz Corporation,,,,Vice President & Chief Technology Officer
+Mary,Reppy,,Abacalab Inc,,,,Chief Operations Officer
+David,Schissel,,General Atomics,,,,Principal Scientist&Group Leader
+Margaret,Sano,,Ocean Surveys,,,,Project Scientist
+Lamar,Ramos,,Infometrix,,,,Chief Scientist
+David,Reiley,,Google,,,,Research Scientist
+Anthony,Polucci,,Veridian,,,,Physicist
+"Coelho,",Pint,,Quantlab Financial,,,,Quantitatiive Developer
+Divya,Pillai,,Argonne National Laboratory,,,,"Intern, Co-op student in the Schabacker Lab"
+Huai-Min,Zhang,,NOAA National Climatic Data Center,,,,Physical Scientist
+Patrick,Wojdowski,,L3 Communications - Ocean Systems Division,,,,Senior Principal Sytems Engineer
+Steven,Weiss,,JDA Software,,,,Senior Computer Scientist
+Robert,Phair,,Integrative Bioinformatics Inc,,,,Chief Science Officer
+Edward,Wilson,,INTELLIzation,,,,Chief Scientist
+Christian,Wachinger,,MIT CSAIL Laboratory,,,,Postdoctoral Associate
+Shivkumar,Venkatasubrahmanyam,,Amgen Inc.,,,,Bioinformatics Scientist
+David,Zafrilla-Gonzales,,Synergic Partners,,,,COO CIO (Chief Operations & Innovation Officer)
+Leonardo,Urbina,,Hubspot,,,,Senior Software Engineering
+Aaron,Ucko,,National Library of Medicine,,,,Staff Scientist
+Sandeep,Tiwari,,Oracle America Inc.,,,,Scientist
+George,Thompson,,Northrop Grumman,,,,RETIRED Senior Scientist
+Martin,Szummer,,University of Cambridge,,,,Senior Researcher
+Douglas,Stewart,,Climatological Consulting Corporation,,,,Consulting Meteorologist
+Marcelo,Torres,,Akamai Technologies,,,,Research Scientist
+Lloyd,Treinish,,IBM International Business Machines Corporation,,,,Distinguished Engineer
+Benjamin,Olasov,,"University of California, San Francisco",,,,
+Marian,Nodine,,Elastic Knowledge,,,,Chief Scientist
+Kyle,Murray,,oDesk,,,,Research Intern
+Daniel,Park,,Broad Institute,,,,Computational Biologist
+Stephanie,Orellana,,NineSigma Inc.,,,,"Director, Technology Insights Solutions"
+Ted,Moore,,American Pacific Corporation,,,,Senior Scientist
+Christopher,Moore,,TrueFit,,,,Chief Analytics Officer
+Habib,Najm,,,,,,
+Tarjei,Mikkelsen,,Broad Institute,,,,Research Fellow
+Brian,Mickus,,"Gilead Sciences, Inc.",,,,Research Scientist II
+Vikas,Mehrotra,,Tiger Consulting Group,,,,"President, Consulting Services"
+John,Makhoul,,BBN Technologies,,,,Chief Scientist
+Gilbert,Leung,,Google,,,,Software Engineer
+Matthew,Lockhart,,MIT,,,,Data Analyst
+Alexandros,Kyriakides,,ADITESS Ltd,,,,Software Engineer and Research Scientist
+Lawrence,Lyons,,,,,,
+Creve,Maples,,Event Horizon Corporation,,,,CEO
+Miriam,Krauss,,National Radio Astronomy Observatory,,,,EVLA Commissioning Postdoctoral Fellow
+Martin,Kohn,,Sentrian Remote Patient Intelligence,,,,Chief Medical Scientist
+Deirdre,Kittner,,"Pinney Associates, Inc.",,,,Senior Scientist
+Joseph,Kaye,,Yahoo,,,,Senior Research Scientist
+Manolis,Kamvysselis,,MIT,,,,Professor
+Christopher,Fischer,,Pellion Technologies,,,,Senior Scientist
+Harry,Feldman,,Computer Sciences Corporation,,,,Senior Computer Scientist
+Stephen,Kent,,Raytheon BBN Technologies,,,,Chief Scientist - Emeritus
+Daniel,Feldman,,Lawrence Berkeley National Laboratory,,,,Geological Project Scientist
+David,Kieda,,Univesity of Utah,,,,"Dean, The Graduate School and Professor"
+Patricia,Engel,,Eastern Research Group,,,,Environmental Scientist
+Roy,Kamimura,,Intrexon,,,,Senior manager
+Jerome,Edwards,,Cameron-Cole LLC,,,,President & Co-Founder
+Roger,Edson,,NOAA/National Weather Service,,,,Science and Operations Officer
+Tommy,Ebe,,Chemical Abstracts Service,,,,"Senior Scientist, Retired"
+Mavis,Driscoll,,Booz Allen Hamilton,,,,Lead Scientist
+Marc,Davis,,Invention Arts,,,,Chief Scientist and Co-Founder
+William,DelHagen,,Self,,,,
+Vishal,Doshi,,,,,,
+Jason,Diffendal,,Pfizer,,,,Manager
+Bruce,Daniels,,Univ California Santa Cruz,,,,Hydroclimatology Research
+Michele,Covell,,Google Inc.,,,,Research Scientist
+Philippe,Cudre-Mauroux,,University of Fribourg,,,,Professor
+Christiane,Collins,,Astellas Pharma Europe,,,,
+Thomas,Clune,,NASA,,,,Senior Computational Scientist
+Norman,Clerman,,Global Data Consultants,,,,Computer Scientist
+Kevin,Chu,,Serendipity Research,,,,Founder/Senior Research Scientist
+Larry,Constantine,,Constantine & Lockwood,,,,Chief Scientist
+Julie,Cohen,,Weill Cornell Medical College,,,,Research Lab Tech II
+Hai,Chen,,"Laboratory for Nuclear Science, MIT",,,,Research Assistant
+Robert,Chen,,Columbia University,,,,Senior Research Scientist
+Steven,Carlson,,Second Chance Energy Solutions,,,,Property Management
+Joseph,Camacho,,NumerEx,,,,Staff Scientist
+Lawrence,Bush,,,,,,
+Charles,Cadieu,,MIT,,,,Postdoc
+Douglas,Twisselmann,,Netflix,,,,Senior Data Scientist
+Victor,Vazquez,,Airbnb,,,,Data Scientist
+Daniel,Tunkelang,,LinkedIn,,,,Principal Data Scientist
+Mark,Burstein,,Sift,,,,Principal Scientist
+James,Thornbrue,,UCSD,,,,Data Scientist
+Sonia,Timberlake,,AbVitro Inc,,,,Senior Data Scientist
+Colin,Taylor,,Ginger.io,,,,Software Engineer / Data Scientist
+Diyang,Tang,,Twitter Inc,,,,Data Scientist
+Peter,Swartz,,Panjiva,,,,Data Scientist
+Peter,Skomoroch,,Data Collective,,,,Principal Data Scientist
+Karen,Sittig,,Twitter Inc,,,,Data Scientist
+David,Shera,,AmeriHealth Caritas Family of Companies,,,,Data Scientist
+Suresh,Segaran,,Metaweb,,,,Senior Data Scientist
+Jennifer,Seto,,Bloomberg,,,,Data Scientist
+Annette,Taberner,,RetailMeNot,,,,Data Scientist
+Christine,Sowa,,Wayfair,,,,Data Scientist
+Lucas,Schiefelbein,,SumZero,,,,Data Scientist
+Christopher,Schuch,,Kyruus,,,,Data Scientist
+Alexandre,Sahyoun,,Oracle,,,,Data Scientist
+Sepehr,Sarmadi,,Shutterstock Inc,,,,Data Scientist
+Mauricio,Roman,,Loggly,,,,Data Scientist
+Sharon,Rapoport,,Plaid Technologies Inc.,,,,Data Scientist
+Varun,Ramanujam,,"Facebook, Inc.",,,,Data Scientist
+Jonathan,Rameseder,,Apple Inc.,,,,Data Scientist
+Richard,LaPointe,,Facebook,,,,Data Scientist
+Francis,Lam,,Aetion,,,,Principal Data Scientist
+John,Lakness,,,,,,Data Scientist
+Bharath,Krishnan,,CQuotient,,,,Principal Data Scientist
+Aubrey,Jaffer,,Digilent,,,,Data Scientist
+Anh,Huynh,,AdHarmonics,,,,Data Scientist
+Jedidiah,Horne,,Uber,,,,Data Scientist
+Benjamin,Joseph,,"Hello, Inc",,,,Data Scientist
+Justin,Hemann,,Causata,,,,Principal Data Scientist
+Thomas,Kollar,,Apple Inc,,,,Data Scientist
+Brian,Harms,,Akamai Technologies,,,,Principal Data Scientist
+Nathan,Janos,,OpenMail,,,,Principal Data Scientist
+Alexander,Hasha,,Capital One,,,,Applied Data Scientist
+Claudia,Gold,,ClassDojo,,,,Data Scientist
+David,Forney,,SmartDrive,,,,Data Scientist/Sr. Statistical Programmer
+Edoardo,Conti,,Uber,,,,Data Scientist
+Scott,Golder,,Context Relevant,,,,Data Scientist and Staff Sociologist
+Sharon,Chou,,"FirstFuel Software, Inc.",,,,Data Scientist
+first_name,last_name,home_address,company,mit_grad_year,work_address,email,job_title
+Brian,Cass,,White Ops,,,,Data Scientist
+Susan,Buchman,,Alcoa Inc.,,,,Senior Data Scientist
+Dean,Cerrato,,PatientsLikeMe,,,,Data Scientist
+Matthew,Bruchon,,Booz Allen Hamilton,,,,Data Scientist
+Brock,Bose,,Accenture,,,,Technology Consultant & Data Scientist
+Alan,Ratner,,Retired Knowledge Engineer/Data Scientist,,,,Part-time community college math/physics tutor
+Thomas,Alcorn,,Adharmonics,,,,Data Scientist
+David,Bermejo,,Packback Books,,,,Marketing Analyst and Data Scientist
+Job,Evers,,Udacity,,,,Data Scientist
+Esosa,Amayo,,Apple Inc,,,,Data Scientist
+Katie,Everett,,Twitter Inc,,,,Data Scientist
+Sharon,Chou,,"FirstFuel Software, Inc.",,,,Data Scientist
+Christine,Choi,,LinkedIn,,,,Data Scientist
+Edoardo,Conti,,Uber,,,,Data Scientist
+Miaoqing,Fang,,Facebook,,,,Data Scientist
+Christopher,Cunningham,,HealthSense,,,,Data Scientist
+Thomas,Moyer,,Humetica,,,,data scientist
+Ian,Murray,,Humin,,,,Data Scientist
+Marlene,Moyer,,International Business Machines Corporat,,,,Data Scientist
+Wojciech,Musial,,Quid,,,,Data Scientist
+Arvind,Prabhakar,,AT&T,,,,Senior Data Scientist
+Nargiss,Mouatta,,Spartz,,,,Jr. Data Scientist
+Jeffrey,Marcus,,Kayak,,,,Senior Data Scientist
+Joseph,Marr,,SYNTASAâ¢,,,,Senior Principal Data Scientist
+Ting,Mao,,GrabTaxi,,,,Data Scientist
+Christopher,Luhrs,,Facebook,,,,Data Scientist
+Luc,Mehl,,Axiom Data Science,,,,Environmental Data Scientist
+Jialing,Li,,Microsoft Corporation,,,,Data Scientist
+Walter,Linde-Zwirble,,Trexin Consulting Inc,,,,"Chief Data Scientist, Health Economics"
+Maokai,Lin,,Smarking Inc,,,,Data Scientist
+Uri,Laserson,,Cloudera,,,,Data scientist
+Annette,Taberner,,RetailMeNot,,,,Data Scientist
+Mehmet,Yunt,,Collective Media,,,,Senior Data Scientist
+Victor,Vazquez,,Airbnb,,,,Data Scientist
+David,Lepzelter,,IgnitionOne,,,,Data Scientist
+Diyang,Tang,,Twitter Inc,,,,Data Scientist
+Jennifer,Seto,,Bloomberg,,,,Data Scientist
+Mark,Borowsky,,Novartis Institute for Biomedical Research,,,,"Executive Director, Data Analytics"
+Ranee,Brylinski,,Brylinski Research,,,,"Co-Founder, Chief Scientist, Co-CEO"
+Jeffrey,Borowitz,,Giant Oak,,,,Social Scientist
+Robert,Bieri,,SAIC Science Applications International Corporation,,,,Senior Engineer
+Michelle,Bonugli,,CACI International,,,,Senior IT Scientist
+Frank,Bentley,,Yahoo!,,,,Principal Research Scientist
+Paul,Bayer,,WSI,,,,Chief Scientist
+Terrance,Barker,,HNC Software - Retired,,,,Sr Staff Scientist
+David,Bacon,,Science Applications International Corporation,,,,"Director, Center for Atmospheric Physics"
+Keith,Bonawitz,,,,,,
+Konstantinos,Arkoudas,,Bloomberg R&D,,,,Senior Computer Scientist
+Paul,Acosta,,MIT Laboratory for Nuclear Science,,,,Computer Services Group Manager
+Richard,Alexander,,Self Employed,,,,
+Erik,Lickerman,,,,,,
+Burton,Kaliski,,Verisign,,,,Senior Vice President and CTO
+Ellie,Graeden,,Gryphon Scientific,,,,Division Director Strategic Systems
+William,DelHagen,,Self,,,,
+Janet,Johnston,,US Air Force Foreign Military Sales,,,,Scientist/Engineer
+Marios,Kagarlis,,"Ventana Systems, Inc",,,,Chief Scientist
+Kriti,Jain,,,,,,
+Charles,Jankowski,,Performance Technology Partners,,,,Senior Speech Scientist
+Leah,Hutchison,,"Frontier Technology, Inc",,,,Senior Scientist
+Tristan,Jehan,,The Echo Nest,,,,Co-Founder & CEO
+Mohibi,Hussain,,MIT,,,,Strategy consultant
+Kris,Homsi,,Nike,,,,sports performance svcs.
+Thomas,Hess,,University of Texas at Austin,,,,Research Scientist
+Donna,Hendrix,,,,,,
+John,Greene,,"SRA International, Inc.",,,,"Senior Director, Bioinformatics"
+Gary,Gibian,,QinetiQ North America - Technology Solutions Group,,,,Sr Scientist
+Jennifer,Healey,,Intel Corporation,,,,Research Scientist
+Samuel,Hokin,,IMS / UW-Madison / Carnegie Institution for Science,,,,Senior Developer / Lecturer / Computational Scientist
+Albert,Galick,,self,,,,self
+Timothy,Hazen,,Microsoft,,,,Principal Speech Scientist
+Michael,Gaidis,,HGST/Western Digital,,,,Technologist
+Anthony,Harkin,,Rochester Institute of Technology,,,,Math Professor
+Thomas,Furnas,,Molecular Data Corporation,,,,President
+Heidi,Fox,,"HERE, a Nokia business",,,,Principal Software Engineer
+Daniel,Park,,Broad Institute,,,,Computational Biologist
+Timur,Shtatland,,Massachusetts General Hospital,,,,Instructor - bioinformatics
+Andrew,Stein,,Novartis Institute for BioMedical Research,,,,Associate Director
+Brian,Keegan,,Harvard Business School,,,,Research Associate
+Tyrone,Smith,,San Bernardino County,,,,Chief Technology Officer
+Samuel,Millington,,Amadeus Data Processing GmBH,,,,System Support Engineer
+Douglas,Foxvog,,Enterra Solutions,,,,
+Nathan,Siemers,,Bristol-Myers Squibb,,,,"Director R&D, Applied Genomics"
+David,Shupe,,California Inst of Technology,,,,Senior Staff Scientist
+Steven,Scott,,Princeton Univ,,,,Research Physicist
+David,Schissel,,General Atomics,,,,Principal Scientist&Group Leader
+David,Saul,,State Street,,,,Senior Vice President & Chief Scientist
+Margaret,Sano,,Ocean Surveys,,,,Project Scientist
+Ilya,Shlyakhter,,Broad Institute of MIT and Harvard,,,,Computational Biologist
+Jason,Salter,,FivePaths LLC,,,,Partner
+Edward,Sittler,,NASA,,,,Astrophysicist
+Oded,Shaham,,IBM Research,,,,Research Scientist
+Joseph,Rosenshein,,Ovitz Corporation,,,,Vice President & Chief Technology Officer
+Mary,Reppy,,Abacalab Inc,,,,Chief Operations Officer
+David,Zafrilla-Gonzales,,Synergic Partners,,,,COO CIO (Chief Operations & Innovation Officer)
+"Coelho,",Pint,,Quantlab Financial,,,,Quantitatiive Developer
+Anthony,Polucci,,Veridian,,,,Physicist
+Huai-Min,Zhang,,NOAA National Climatic Data Center,,,,Physical Scientist
+Lamar,Ramos,,Infometrix,,,,Chief Scientist
+Edward,Wilson,,INTELLIzation,,,,Chief Scientist
+David,Reiley,,Google,,,,Research Scientist
+Patrick,Wojdowski,,L3 Communications - Ocean Systems Division,,,,Senior Principal Sytems Engineer
+Shivkumar,Venkatasubrahmanyam,,Amgen Inc.,,,,Bioinformatics Scientist
+Leonardo,Urbina,,Hubspot,,,,Senior Software Engineering
+Aaron,Ucko,,National Library of Medicine,,,,Staff Scientist
+Steven,Weiss,,JDA Software,,,,Senior Computer Scientist
+Christian,Wachinger,,MIT CSAIL Laboratory,,,,Postdoctoral Associate
+Marcelo,Torres,,Akamai Technologies,,,,Research Scientist
+George,Thompson,,Northrop Grumman,,,,RETIRED Senior Scientist
+Lloyd,Treinish,,IBM International Business Machines Corporation,,,,Distinguished Engineer
+Robert,Phair,,Integrative Bioinformatics Inc,,,,Chief Science Officer
+Martin,Szummer,,University of Cambridge,,,,Senior Researcher
+Jorge,Ortiz,,IBM Research,,,,Research Scientist
+Sandeep,Tiwari,,Oracle America Inc.,,,,Scientist
+Stephanie,Orellana,,NineSigma Inc.,,,,"Director, Technology Insights Solutions"
+Benjamin,Olasov,,"University of California, San Francisco",,,,
+Divya,Pillai,,Argonne National Laboratory,,,,"Intern, Co-op student in the Schabacker Lab"
+Ted,Moore,,American Pacific Corporation,,,,Senior Scientist
+Marian,Nodine,,Elastic Knowledge,,,,Chief Scientist
+Christopher,Moore,,TrueFit,,,,Chief Analytics Officer
+Kyle,Murray,,oDesk,,,,Research Intern
+Brian,Mickus,,"Gilead Sciences, Inc.",,,,Research Scientist II
+Tarjei,Mikkelsen,,Broad Institute,,,,Research Fellow
+John,Makhoul,,BBN Technologies,,,,Chief Scientist
+Creve,Maples,,Event Horizon Corporation,,,,CEO
+Vikas,Mehrotra,,Tiger Consulting Group,,,,"President, Consulting Services"
+Habib,Najm,,,,,,
+Mark,Lillibridge,,HP,,,,Principal Research Scientist
+Matthew,Lockhart,,MIT,,,,Data Analyst
+Lawrence,Lyons,,,,,,
+Douglas,Stewart,,Climatological Consulting Corporation,,,,Consulting Meteorologist
+Gilbert,Leung,,Google,,,,Software Engineer
+Martin,Kohn,,Sentrian Remote Patient Intelligence,,,,Chief Medical Scientist
+Alexandros,Kyriakides,,ADITESS Ltd,,,,Software Engineer and Research Scientist
+David,Kieda,,Univesity of Utah,,,,"Dean, The Graduate School and Professor"
+Deirdre,Kittner,,"Pinney Associates, Inc.",,,,Senior Scientist
+Joseph,Kaye,,Yahoo,,,,Senior Research Scientist
+Stephen,Kent,,Raytheon BBN Technologies,,,,Chief Scientist - Emeritus
+Miriam,Krauss,,National Radio Astronomy Observatory,,,,EVLA Commissioning Postdoctoral Fellow
+Manolis,Kamvysselis,,MIT,,,,Professor
+Roy,Kamimura,,Intrexon,,,,Senior manager
+Anna,Folinsky,,HERE,,,,
+Douglas,Fenger,,Dart NeuroScience,,,,Scientist
+Daniel,Feldman,,Lawrence Berkeley National Laboratory,,,,Geological Project Scientist
+Patricia,Engel,,Eastern Research Group,,,,Environmental Scientist
+Jerome,Edwards,,Cameron-Cole LLC,,,,President & Co-Founder
+Christopher,Fischer,,Pellion Technologies,,,,Senior Scientist
+Tommy,Ebe,,Chemical Abstracts Service,,,,"Senior Scientist, Retired"
+Roger,Edson,,NOAA/National Weather Service,,,,Science and Operations Officer
+Harry,Feldman,,Computer Sciences Corporation,,,,Senior Computer Scientist
+Jason,Diffendal,,Pfizer,,,,Manager
+Marc,Davis,,Invention Arts,,,,Chief Scientist and Co-Founder
+Mavis,Driscoll,,Booz Allen Hamilton,,,,Lead Scientist
+Philippe,Cudre-Mauroux,,University of Fribourg,,,,Professor
+Bruce,Daniels,,Univ California Santa Cruz,,,,Hydroclimatology Research
+Larry,Constantine,,Constantine & Lockwood,,,,Chief Scientist
+Vishal,Doshi,,,,,,
+Christiane,Collins,,Astellas Pharma Europe,,,,
+Julie,Cohen,,Weill Cornell Medical College,,,,Research Lab Tech II
+Norman,Clerman,,Global Data Consultants,,,,Computer Scientist
+Hai,Chen,,"Laboratory for Nuclear Science, MIT",,,,Research Assistant
+Steven,Carlson,,Second Chance Energy Solutions,,,,Property Management
+Robert,Chen,,Columbia University,,,,Senior Research Scientist
+Joseph,Camacho,,NumerEx,,,,Staff Scientist
+Lawrence,Bush,,,,,,
+Charles,Cadieu,,MIT,,,,Postdoc
+Kevin,Chu,,Serendipity Research,,,,Founder/Senior Research Scientist
+Mark,Burstein,,Sift,,,,Principal Scientist
+Mona,Vernon,,Thomson Reuters,,,,"VP, Data Innovation Lab"
+Murtaza,Zafer,,Nyansa Inc.,,,,Data Scientist
+Ming,Zheng,,QuantGroup,,,,Data Scientist
+Mark,Wang,,Employee Stock Option (ESO) Fund,,,,Chief Data Scientist
+Jonathan,Werberg,,Office of the Attorney General,,,,Data Scientist
+Emily,Wang,,Uber Technologies,,,,Data Scientist
+George,Lan,,Elsevier,,,,Analytic Product Manager
+Jason,Ventrella,,MITRE,,,,Principal Data Scientist
+Douglas,Twisselmann,,Netflix,,,,Senior Data Scientist
+Daniel,Tunkelang,,LinkedIn,,,,Principal Data Scientist
+Colin,Taylor,,Ginger.io,,,,Software Engineer / Data Scientist
+Sonia,Timberlake,,AbVitro Inc,,,,Senior Data Scientist
+James,Thornbrue,,UCSD,,,,Data Scientist
+Peter,Swartz,,Panjiva,,,,Data Scientist
+Christine,Sowa,,Wayfair,,,,Data Scientist
+Peter,Skomoroch,,Data Collective,,,,Principal Data Scientist
+Thomas,Clune,,NASA,,,,Senior Computational Scientist
+Suresh,Segaran,,Metaweb,,,,Senior Data Scientist
+Karen,Sittig,,Twitter Inc,,,,Data Scientist
+Christopher,Schuch,,Kyruus,,,,Data Scientist
+David,Shera,,AmeriHealth Caritas Family of Companies,,,,Data Scientist
+Sepehr,Sarmadi,,Shutterstock Inc,,,,Data Scientist
+Alexandre,Sahyoun,,Oracle,,,,Data Scientist
+Lucas,Schiefelbein,,SumZero,,,,Data Scientist
+Mauricio,Roman,,Loggly,,,,Data Scientist
+Sharon,Rapoport,,Plaid Technologies Inc.,,,,Data Scientist
+Jonathan,Rameseder,,Apple Inc.,,,,Data Scientist
+Francis,Lam,,Aetion,,,,Principal Data Scientist
+Brian,Wilt,,Jawbone,,,,Senior Data Scientist
+Varun,Ramanujam,,"Facebook, Inc.",,,,Data Scientist
+Richard,LaPointe,,Facebook,,,,Data Scientist
+Thomas,Kollar,,Apple Inc,,,,Data Scientist
+Benjamin,Joseph,,"Hello, Inc",,,,Data Scientist
+Bharath,Krishnan,,CQuotient,,,,Principal Data Scientist
+John,Lakness,,,,,,Data Scientist
+Nathan,Janos,,OpenMail,,,,Principal Data Scientist
+Aubrey,Jaffer,,Digilent,,,,Data Scientist
+Anh,Huynh,,AdHarmonics,,,,Data Scientist
+Claudia,Gold,,ClassDojo,,,,Data Scientist
+Jedidiah,Horne,,Uber,,,,Data Scientist
+Justin,Hemann,,Causata,,,,Principal Data Scientist
+David,Forney,,SmartDrive,,,,Data Scientist/Sr. Statistical Programmer
+Alexander,Hasha,,Capital One,,,,Applied Data Scientist
+Ronald,Focia,,"Aspire Ventures, LLC.",,,,Data Scientist
+Brian,Harms,,Akamai Technologies,,,,Principal Data Scientist
+Daizhuo,Chen,,Dstillery,,,,Data Scientist
+Michele,Covell,,Google Inc.,,,,Research Scientist
+Scott,Golder,,Context Relevant,,,,Data Scientist and Staff Sociologist
+first_name,last_name,home_address,company,mit_grad_year,work_address,email,job_title
+Dean,Cerrato,,PatientsLikeMe,,,,Data Scientist
+Brian,Cass,,White Ops,,,,Data Scientist
+Alan,Ratner,,Retired Knowledge Engineer/Data Scientist,,,,Part-time community college math/physics tutor
+Susan,Buchman,,Alcoa Inc.,,,,Senior Data Scientist
+Esosa,Amayo,,Apple Inc,,,,Data Scientist
+Thomas,Alcorn,,Adharmonics,,,,Data Scientist
+Christine,Choi,,LinkedIn,,,,Data Scientist
+Matthew,Bruchon,,Booz Allen Hamilton,,,,Data Scientist
+Katie,Everett,,Twitter Inc,,,,Data Scientist
+Ronald,Focia,,"Aspire Ventures, LLC.",,,,Data Scientist
+Job,Evers,,Udacity,,,,Data Scientist
+Miaoqing,Fang,,Facebook,,,,Data Scientist
+Christopher,Cunningham,,HealthSense,,,,Data Scientist
+Brock,Bose,,Accenture,,,,Technology Consultant & Data Scientist
+David,Bermejo,,Packback Books,,,,Marketing Analyst and Data Scientist
+Arvind,Prabhakar,,AT&T,,,,Senior Data Scientist
+Nargiss,Mouatta,,Spartz,,,,Jr. Data Scientist
+Marlene,Moyer,,International Business Machines Corporat,,,,Data Scientist
+Thomas,Moyer,,Humetica,,,,data scientist
+Luc,Mehl,,Axiom Data Science,,,,Environmental Data Scientist
+Joseph,Marr,,SYNTASAâ¢,,,,Senior Principal Data Scientist
+Wojciech,Musial,,Quid,,,,Data Scientist
+Ian,Murray,,Humin,,,,Data Scientist
+Jeffrey,Marcus,,Kayak,,,,Senior Data Scientist
+Ting,Mao,,GrabTaxi,,,,Data Scientist
+Maokai,Lin,,Smarking Inc,,,,Data Scientist
+David,Lepzelter,,IgnitionOne,,,,Data Scientist
+Christopher,Luhrs,,Facebook,,,,Data Scientist
+Jialing,Li,,Microsoft Corporation,,,,Data Scientist
+Uri,Laserson,,Cloudera,,,,Data scientist
+Walter,Linde-Zwirble,,Trexin Consulting Inc,,,,"Chief Data Scientist, Health Economics"
+Ranee,Brylinski,,Brylinski Research,,,,"Co-Founder, Chief Scientist, Co-CEO"
+Mark,Borowsky,,Novartis Institute for Biomedical Research,,,,"Executive Director, Data Analytics"
+Jeffrey,Borowitz,,Giant Oak,,,,Social Scientist
+Frank,Bentley,,Yahoo!,,,,Principal Research Scientist
+Keith,Bonawitz,,,,,,
+Michelle,Bonugli,,CACI International,,,,Senior IT Scientist
+Paul,Bayer,,WSI,,,,Chief Scientist
+Robert,Bieri,,SAIC Science Applications International Corporation,,,,Senior Engineer
+Terrance,Barker,,HNC Software - Retired,,,,Sr Staff Scientist
+David,Bacon,,Science Applications International Corporation,,,,"Director, Center for Atmospheric Physics"
+Paul,Acosta,,MIT Laboratory for Nuclear Science,,,,Computer Services Group Manager
+Burton,Kaliski,,Verisign,,,,Senior Vice President and CTO
+Erik,Lickerman,,,,,,
+Ellie,Graeden,,Gryphon Scientific,,,,Division Director Strategic Systems
+Richard,Alexander,,Self Employed,,,,
+Anthony,Harkin,,Rochester Institute of Technology,,,,Math Professor
+Konstantinos,Arkoudas,,Bloomberg R&D,,,,Senior Computer Scientist
+Mona,Vernon,,Thomson Reuters,,,,"VP, Data Innovation Lab"
+George,Lan,,Elsevier,,,,Analytic Product Manager
+Ming,Zheng,,QuantGroup,,,,Data Scientist
+Murtaza,Zafer,,Nyansa Inc.,,,,Data Scientist
+Mehmet,Yunt,,Collective Media,,,,Senior Data Scientist
+Mark,Wang,,Employee Stock Option (ESO) Fund,,,,Chief Data Scientist
+Jonathan,Werberg,,Office of the Attorney General,,,,Data Scientist
+Marios,Kagarlis,,"Ventana Systems, Inc",,,,Chief Scientist
+Brian,Wilt,,Jawbone,,,,Senior Data Scientist
+Janet,Johnston,,US Air Force Foreign Military Sales,,,,Scientist/Engineer
+Tristan,Jehan,,The Echo Nest,,,,Co-Founder & CEO
+Charles,Jankowski,,Performance Technology Partners,,,,Senior Speech Scientist
+Leah,Hutchison,,"Frontier Technology, Inc",,,,Senior Scientist
+Kris,Homsi,,Nike,,,,sports performance svcs.
+Mohibi,Hussain,,MIT,,,,Strategy consultant
+Samuel,Hokin,,IMS / UW-Madison / Carnegie Institution for Science,,,,Senior Developer / Lecturer / Computational Scientist
+Thomas,Hess,,University of Texas at Austin,,,,Research Scientist
+Donna,Hendrix,,,,,,
+Jennifer,Healey,,Intel Corporation,,,,Research Scientist
+John,Greene,,"SRA International, Inc.",,,,"Senior Director, Bioinformatics"
+Albert,Galick,,self,,,,self
+Michael,Gaidis,,HGST/Western Digital,,,,Technologist
+Thomas,Furnas,,Molecular Data Corporation,,,,President
+Timothy,Hazen,,Microsoft,,,,Principal Speech Scientist
+Douglas,Foxvog,,Enterra Solutions,,,,
+Gary,Gibian,,QinetiQ North America - Technology Solutions Group,,,,Sr Scientist
+Robert,Phair,,Integrative Bioinformatics Inc,,,,Chief Science Officer
+Jason,Salter,,FivePaths LLC,,,,Partner
+Daniel,Park,,Broad Institute,,,,Computational Biologist
+Joseph,Rosenshein,,Ovitz Corporation,,,,Vice President & Chief Technology Officer
+Kriti,Jain,,,,,,
+David,Shupe,,California Inst of Technology,,,,Senior Staff Scientist
+Heidi,Fox,,"HERE, a Nokia business",,,,Principal Software Engineer
+Andrew,Stein,,Novartis Institute for BioMedical Research,,,,Associate Director
+Tyrone,Smith,,San Bernardino County,,,,Chief Technology Officer
+Edward,Sittler,,NASA,,,,Astrophysicist
+Timur,Shtatland,,Massachusetts General Hospital,,,,Instructor - bioinformatics
+Oded,Shaham,,IBM Research,,,,Research Scientist
+Ilya,Shlyakhter,,Broad Institute of MIT and Harvard,,,,Computational Biologist
+Steven,Scott,,Princeton Univ,,,,Research Physicist
+David,Schissel,,General Atomics,,,,Principal Scientist&Group Leader
+Nathan,Siemers,,Bristol-Myers Squibb,,,,"Director R&D, Applied Genomics"
+David,Saul,,State Street,,,,Senior Vice President & Chief Scientist
+Margaret,Sano,,Ocean Surveys,,,,Project Scientist
+Mary,Reppy,,Abacalab Inc,,,,Chief Operations Officer
+David,Reiley,,Google,,,,Research Scientist
+Lamar,Ramos,,Infometrix,,,,Chief Scientist
+David,Zafrilla-Gonzales,,Synergic Partners,,,,COO CIO (Chief Operations & Innovation Officer)
+Huai-Min,Zhang,,NOAA National Climatic Data Center,,,,Physical Scientist
+Divya,Pillai,,Argonne National Laboratory,,,,"Intern, Co-op student in the Schabacker Lab"
+Patrick,Wojdowski,,L3 Communications - Ocean Systems Division,,,,Senior Principal Sytems Engineer
+"Coelho,",Pint,,Quantlab Financial,,,,Quantitatiive Developer
+Edward,Wilson,,INTELLIzation,,,,Chief Scientist
+Anthony,Polucci,,Veridian,,,,Physicist
+Steven,Weiss,,JDA Software,,,,Senior Computer Scientist
+Christian,Wachinger,,MIT CSAIL Laboratory,,,,Postdoctoral Associate
+Shivkumar,Venkatasubrahmanyam,,Amgen Inc.,,,,Bioinformatics Scientist
+Leonardo,Urbina,,Hubspot,,,,Senior Software Engineering
+Aaron,Ucko,,National Library of Medicine,,,,Staff Scientist
+Lloyd,Treinish,,IBM International Business Machines Corporation,,,,Distinguished Engineer
+Sandeep,Tiwari,,Oracle America Inc.,,,,Scientist
+Martin,Szummer,,University of Cambridge,,,,Senior Researcher
+Douglas,Stewart,,Climatological Consulting Corporation,,,,Consulting Meteorologist
+George,Thompson,,Northrop Grumman,,,,RETIRED Senior Scientist
+Marcelo,Torres,,Akamai Technologies,,,,Research Scientist
+Jorge,Ortiz,,IBM Research,,,,Research Scientist
+Stephanie,Orellana,,NineSigma Inc.,,,,"Director, Technology Insights Solutions"
+Marian,Nodine,,Elastic Knowledge,,,,Chief Scientist
+Benjamin,Olasov,,"University of California, San Francisco",,,,
+Habib,Najm,,,,,,
+Tarjei,Mikkelsen,,Broad Institute,,,,Research Fellow
+Ted,Moore,,American Pacific Corporation,,,,Senior Scientist
+Samuel,Millington,,Amadeus Data Processing GmBH,,,,System Support Engineer
+Kyle,Murray,,oDesk,,,,Research Intern
+Brian,Mickus,,"Gilead Sciences, Inc.",,,,Research Scientist II
+Vikas,Mehrotra,,Tiger Consulting Group,,,,"President, Consulting Services"
+Creve,Maples,,Event Horizon Corporation,,,,CEO
+Christopher,Moore,,TrueFit,,,,Chief Analytics Officer
+Matthew,Lockhart,,MIT,,,,Data Analyst
+Gilbert,Leung,,Google,,,,Software Engineer
+Alexandros,Kyriakides,,ADITESS Ltd,,,,Software Engineer and Research Scientist
+Mark,Lillibridge,,HP,,,,Principal Research Scientist
+Martin,Kohn,,Sentrian Remote Patient Intelligence,,,,Chief Medical Scientist
+Miriam,Krauss,,National Radio Astronomy Observatory,,,,EVLA Commissioning Postdoctoral Fellow
+John,Makhoul,,BBN Technologies,,,,Chief Scientist
+Lawrence,Lyons,,,,,,
+Deirdre,Kittner,,"Pinney Associates, Inc.",,,,Senior Scientist
+Stephen,Kent,,Raytheon BBN Technologies,,,,Chief Scientist - Emeritus
+Joseph,Kaye,,Yahoo,,,,Senior Research Scientist
+Brian,Keegan,,Harvard Business School,,,,Research Associate
+Manolis,Kamvysselis,,MIT,,,,Professor
+Roy,Kamimura,,Intrexon,,,,Senior manager
+David,Kieda,,Univesity of Utah,,,,"Dean, The Graduate School and Professor"
+Christopher,Fischer,,Pellion Technologies,,,,Senior Scientist
+Anna,Folinsky,,HERE,,,,
+Douglas,Fenger,,Dart NeuroScience,,,,Scientist
+Harry,Feldman,,Computer Sciences Corporation,,,,Senior Computer Scientist
+Daniel,Feldman,,Lawrence Berkeley National Laboratory,,,,Geological Project Scientist
+Tommy,Ebe,,Chemical Abstracts Service,,,,"Senior Scientist, Retired"
+Roger,Edson,,NOAA/National Weather Service,,,,Science and Operations Officer
+Mavis,Driscoll,,Booz Allen Hamilton,,,,Lead Scientist
+Vishal,Doshi,,,,,,
+Jason,Diffendal,,Pfizer,,,,Manager
+Jerome,Edwards,,Cameron-Cole LLC,,,,President & Co-Founder
+Patricia,Engel,,Eastern Research Group,,,,Environmental Scientist
+William,DelHagen,,Self,,,,
+Philippe,Cudre-Mauroux,,University of Fribourg,,,,Professor
+Marc,Davis,,Invention Arts,,,,Chief Scientist and Co-Founder
+Michele,Covell,,Google Inc.,,,,Research Scientist
+Larry,Constantine,,Constantine & Lockwood,,,,Chief Scientist
+Julie,Cohen,,Weill Cornell Medical College,,,,Research Lab Tech II
+Thomas,Clune,,NASA,,,,Senior Computational Scientist
+Bruce,Daniels,,Univ California Santa Cruz,,,,Hydroclimatology Research
+Christiane,Collins,,Astellas Pharma Europe,,,,
+Norman,Clerman,,Global Data Consultants,,,,Computer Scientist
+Kevin,Chu,,Serendipity Research,,,,Founder/Senior Research Scientist
+Steven,Carlson,,Second Chance Energy Solutions,,,,Property Management
+Joseph,Camacho,,NumerEx,,,,Staff Scientist
+Lawrence,Bush,,,,,,
+Hai,Chen,,"Laboratory for Nuclear Science, MIT",,,,Research Assistant
+Mark,Burstein,,Sift,,,,Principal Scientist
+Emily,Wang,,Uber Technologies,,,,Data Scientist
+Robert,Chen,,Columbia University,,,,Senior Research Scientist
+Charles,Cadieu,,MIT,,,,Postdoc
+Jason,Ventrella,,MITRE,,,,Principal Data Scientist
+Victor,Vazquez,,Airbnb,,,,Data Scientist
+Daniel,Tunkelang,,LinkedIn,,,,Principal Data Scientist
+Sonia,Timberlake,,AbVitro Inc,,,,Senior Data Scientist
+Diyang,Tang,,Twitter Inc,,,,Data Scientist
+James,Thornbrue,,UCSD,,,,Data Scientist
+Colin,Taylor,,Ginger.io,,,,Software Engineer / Data Scientist
+Douglas,Twisselmann,,Netflix,,,,Senior Data Scientist
+Annette,Taberner,,RetailMeNot,,,,Data Scientist
+Peter,Swartz,,Panjiva,,,,Data Scientist
+Suresh,Segaran,,Metaweb,,,,Senior Data Scientist
+Karen,Sittig,,Twitter Inc,,,,Data Scientist
+Christopher,Schuch,,Kyruus,,,,Data Scientist
+David,Shera,,AmeriHealth Caritas Family of Companies,,,,Data Scientist
+Jennifer,Seto,,Bloomberg,,,,Data Scientist
+Peter,Skomoroch,,Data Collective,,,,Principal Data Scientist
+Christine,Sowa,,Wayfair,,,,Data Scientist
+Lucas,Schiefelbein,,SumZero,,,,Data Scientist
+Sepehr,Sarmadi,,Shutterstock Inc,,,,Data Scientist
+Alexandre,Sahyoun,,Oracle,,,,Data Scientist
+Sharon,Rapoport,,Plaid Technologies Inc.,,,,Data Scientist
+Richard,LaPointe,,Facebook,,,,Data Scientist
+Francis,Lam,,Aetion,,,,Principal Data Scientist
+Varun,Ramanujam,,"Facebook, Inc.",,,,Data Scientist
+Mauricio,Roman,,Loggly,,,,Data Scientist
+Jonathan,Rameseder,,Apple Inc.,,,,Data Scientist
+John,Lakness,,,,,,Data Scientist
+Bharath,Krishnan,,CQuotient,,,,Principal Data Scientist
+Benjamin,Joseph,,"Hello, Inc",,,,Data Scientist
+Thomas,Kollar,,Apple Inc,,,,Data Scientist
+Jedidiah,Horne,,Uber,,,,Data Scientist
+Justin,Hemann,,Causata,,,,Principal Data Scientist
+Anh,Huynh,,AdHarmonics,,,,Data Scientist
+Nathan,Janos,,OpenMail,,,,Principal Data Scientist
+Aubrey,Jaffer,,Digilent,,,,Data Scientist
+Alexander,Hasha,,Capital One,,,,Applied Data Scientist
+Brian,Harms,,Akamai Technologies,,,,Principal Data Scientist
+David,Forney,,SmartDrive,,,,Data Scientist/Sr. Statistical Programmer
+Edoardo,Conti,,Uber,,,,Data Scientist
+Scott,Golder,,Context Relevant,,,,Data Scientist and Staff Sociologist
+Sharon,Chou,,"FirstFuel Software, Inc.",,,,Data Scientist
+Daizhuo,Chen,,Dstillery,,,,Data Scientist
+Claudia,Gold,,ClassDojo,,,,Data Scientist
+first_name,last_name,home_address,company,mit_grad_year,work_address,email,job_title
+Thomas,Alcorn,,Adharmonics,,,,Data Scientist
+Brian,Cass,,White Ops,,,,Data Scientist
+Matthew,Bruchon,,Booz Allen Hamilton,,,,Data Scientist
+David,Bermejo,,Packback Books,,,,Marketing Analyst and Data Scientist
+Susan,Buchman,,Alcoa Inc.,,,,Senior Data Scientist
+Alan,Ratner,,Retired Knowledge Engineer/Data Scientist,,,,Part-time community college math/physics tutor
+Brock,Bose,,Accenture,,,,Technology Consultant & Data Scientist
+Dean,Cerrato,,PatientsLikeMe,,,,Data Scientist
+Esosa,Amayo,,Apple Inc,,,,Data Scientist
+Katie,Everett,,Twitter Inc,,,,Data Scientist
+Christine,Choi,,LinkedIn,,,,Data Scientist
+Daizhuo,Chen,,Dstillery,,,,Data Scientist
+Job,Evers,,Udacity,,,,Data Scientist
+Edoardo,Conti,,Uber,,,,Data Scientist
+Arvind,Prabhakar,,AT&T,,,,Senior Data Scientist
+Sharon,Chou,,"FirstFuel Software, Inc.",,,,Data Scientist
+Wojciech,Musial,,Quid,,,,Data Scientist
+Ian,Murray,,Humin,,,,Data Scientist
+Thomas,Moyer,,Humetica,,,,data scientist
+Luc,Mehl,,Axiom Data Science,,,,Environmental Data Scientist
+Joseph,Marr,,SYNTASAâ¢,,,,Senior Principal Data Scientist
+Jeffrey,Marcus,,Kayak,,,,Senior Data Scientist
+Marlene,Moyer,,International Business Machines Corporat,,,,Data Scientist
+Christopher,Luhrs,,Facebook,,,,Data Scientist
+Nargiss,Mouatta,,Spartz,,,,Jr. Data Scientist
+Walter,Linde-Zwirble,,Trexin Consulting Inc,,,,"Chief Data Scientist, Health Economics"
+Maokai,Lin,,Smarking Inc,,,,Data Scientist
+Jialing,Li,,Microsoft Corporation,,,,Data Scientist
+Jason,Ventrella,,MITRE,,,,Principal Data Scientist
+David,Lepzelter,,IgnitionOne,,,,Data Scientist
+Colin,Taylor,,Ginger.io,,,,Software Engineer / Data Scientist
+Christopher,Cunningham,,HealthSense,,,,Data Scientist
+Richard,Alexander,,Self Employed,,,,
+Uri,Laserson,,Cloudera,,,,Data scientist
+Ranee,Brylinski,,Brylinski Research,,,,"Co-Founder, Chief Scientist, Co-CEO"
+Keith,Bonawitz,,,,,,
+Michelle,Bonugli,,CACI International,,,,Senior IT Scientist
+Robert,Bieri,,SAIC Science Applications International Corporation,,,,Senior Engineer
+Frank,Bentley,,Yahoo!,,,,Principal Research Scientist
+Mark,Borowsky,,Novartis Institute for Biomedical Research,,,,"Executive Director, Data Analytics"
+Jeffrey,Borowitz,,Giant Oak,,,,Social Scientist
+Paul,Bayer,,WSI,,,,Chief Scientist
+Terrance,Barker,,HNC Software - Retired,,,,Sr Staff Scientist
+David,Bacon,,Science Applications International Corporation,,,,"Director, Center for Atmospheric Physics"
+Ting,Mao,,GrabTaxi,,,,Data Scientist
+Burton,Kaliski,,Verisign,,,,Senior Vice President and CTO
+Erik,Lickerman,,,,,,
+Ellie,Graeden,,Gryphon Scientific,,,,Division Director Strategic Systems
+Anthony,Harkin,,Rochester Institute of Technology,,,,Math Professor
+Paul,Acosta,,MIT Laboratory for Nuclear Science,,,,Computer Services Group Manager
+Konstantinos,Arkoudas,,Bloomberg R&D,,,,Senior Computer Scientist
+Charles,Jankowski,,Performance Technology Partners,,,,Senior Speech Scientist
+Mohibi,Hussain,,MIT,,,,Strategy consultant
+Kriti,Jain,,,,,,
+Marios,Kagarlis,,"Ventana Systems, Inc",,,,Chief Scientist
+Tristan,Jehan,,The Echo Nest,,,,Co-Founder & CEO
+Leah,Hutchison,,"Frontier Technology, Inc",,,,Senior Scientist
+Janet,Johnston,,US Air Force Foreign Military Sales,,,,Scientist/Engineer
+Samuel,Hokin,,IMS / UW-Madison / Carnegie Institution for Science,,,,Senior Developer / Lecturer / Computational Scientist
+Jennifer,Healey,,Intel Corporation,,,,Research Scientist
+Timothy,Hazen,,Microsoft,,,,Principal Speech Scientist
+Thomas,Hess,,University of Texas at Austin,,,,Research Scientist
+Kris,Homsi,,Nike,,,,sports performance svcs.
+Donna,Hendrix,,,,,,
+John,Greene,,"SRA International, Inc.",,,,"Senior Director, Bioinformatics"
+Gary,Gibian,,QinetiQ North America - Technology Solutions Group,,,,Sr Scientist
+Albert,Galick,,self,,,,self
+Tyrone,Smith,,San Bernardino County,,,,Chief Technology Officer
+Edward,Sittler,,NASA,,,,Astrophysicist
+David,Shupe,,California Inst of Technology,,,,Senior Staff Scientist
+Ilya,Shlyakhter,,Broad Institute of MIT and Harvard,,,,Computational Biologist
+Timur,Shtatland,,Massachusetts General Hospital,,,,Instructor - bioinformatics
+Andrew,Stein,,Novartis Institute for BioMedical Research,,,,Associate Director
+Steven,Scott,,Princeton Univ,,,,Research Physicist
+Nathan,Siemers,,Bristol-Myers Squibb,,,,"Director R&D, Applied Genomics"
+Oded,Shaham,,IBM Research,,,,Research Scientist
+David,Schissel,,General Atomics,,,,Principal Scientist&Group Leader
+David,Saul,,State Street,,,,Senior Vice President & Chief Scientist
+Joseph,Rosenshein,,Ovitz Corporation,,,,Vice President & Chief Technology Officer
+Mary,Reppy,,Abacalab Inc,,,,Chief Operations Officer
+Margaret,Sano,,Ocean Surveys,,,,Project Scientist
+Lamar,Ramos,,Infometrix,,,,Chief Scientist
+David,Reiley,,Google,,,,Research Scientist
+Jason,Salter,,FivePaths LLC,,,,Partner
+Anthony,Polucci,,Veridian,,,,Physicist
+"Coelho,",Pint,,Quantlab Financial,,,,Quantitatiive Developer
+Daniel,Park,,Broad Institute,,,,Computational Biologist
+Stephanie,Orellana,,NineSigma Inc.,,,,"Director, Technology Insights Solutions"
+Jorge,Ortiz,,IBM Research,,,,Research Scientist
+Robert,Phair,,Integrative Bioinformatics Inc,,,,Chief Science Officer
+Benjamin,Olasov,,"University of California, San Francisco",,,,
+Divya,Pillai,,Argonne National Laboratory,,,,"Intern, Co-op student in the Schabacker Lab"
+Marian,Nodine,,Elastic Knowledge,,,,Chief Scientist
+Habib,Najm,,,,,,
+Ted,Moore,,American Pacific Corporation,,,,Senior Scientist
+Kyle,Murray,,oDesk,,,,Research Intern
+Brian,Mickus,,"Gilead Sciences, Inc.",,,,Research Scientist II
+Tarjei,Mikkelsen,,Broad Institute,,,,Research Fellow
+Samuel,Millington,,Amadeus Data Processing GmBH,,,,System Support Engineer
+Vikas,Mehrotra,,Tiger Consulting Group,,,,"President, Consulting Services"
+Christopher,Moore,,TrueFit,,,,Chief Analytics Officer
+Creve,Maples,,Event Horizon Corporation,,,,CEO
+John,Makhoul,,BBN Technologies,,,,Chief Scientist
+Lawrence,Lyons,,,,,,
+Mark,Lillibridge,,HP,,,,Principal Research Scientist
+Matthew,Lockhart,,MIT,,,,Data Analyst
+Huai-Min,Zhang,,NOAA National Climatic Data Center,,,,Physical Scientist
+David,Zafrilla-Gonzales,,Synergic Partners,,,,COO CIO (Chief Operations & Innovation Officer)
+Patrick,Wojdowski,,L3 Communications - Ocean Systems Division,,,,Senior Principal Sytems Engineer
+Alexandros,Kyriakides,,ADITESS Ltd,,,,Software Engineer and Research Scientist
+Edward,Wilson,,INTELLIzation,,,,Chief Scientist
+Gilbert,Leung,,Google,,,,Software Engineer
+Steven,Weiss,,JDA Software,,,,Senior Computer Scientist
+Christian,Wachinger,,MIT CSAIL Laboratory,,,,Postdoctoral Associate
+Miriam,Krauss,,National Radio Astronomy Observatory,,,,EVLA Commissioning Postdoctoral Fellow
+Shivkumar,Venkatasubrahmanyam,,Amgen Inc.,,,,Bioinformatics Scientist
+Leonardo,Urbina,,Hubspot,,,,Senior Software Engineering
+Aaron,Ucko,,National Library of Medicine,,,,Staff Scientist
+Marcelo,Torres,,Akamai Technologies,,,,Research Scientist
+George,Thompson,,Northrop Grumman,,,,RETIRED Senior Scientist
+Douglas,Stewart,,Climatological Consulting Corporation,,,,Consulting Meteorologist
+Martin,Szummer,,University of Cambridge,,,,Senior Researcher
+Lloyd,Treinish,,IBM International Business Machines Corporation,,,,Distinguished Engineer
+Sandeep,Tiwari,,Oracle America Inc.,,,,Scientist
+Martin,Kohn,,Sentrian Remote Patient Intelligence,,,,Chief Medical Scientist
+Deirdre,Kittner,,"Pinney Associates, Inc.",,,,Senior Scientist
+David,Kieda,,Univesity of Utah,,,,"Dean, The Graduate School and Professor"
+Joseph,Kaye,,Yahoo,,,,Senior Research Scientist
+Brian,Keegan,,Harvard Business School,,,,Research Associate
+Michael,Gaidis,,HGST/Western Digital,,,,Technologist
+Stephen,Kent,,Raytheon BBN Technologies,,,,Chief Scientist - Emeritus
+Roy,Kamimura,,Intrexon,,,,Senior manager
+Manolis,Kamvysselis,,MIT,,,,Professor
+Thomas,Furnas,,Molecular Data Corporation,,,,President
+Douglas,Foxvog,,Enterra Solutions,,,,
+Heidi,Fox,,"HERE, a Nokia business",,,,Principal Software Engineer
+Douglas,Fenger,,Dart NeuroScience,,,,Scientist
+Patricia,Engel,,Eastern Research Group,,,,Environmental Scientist
+Daniel,Feldman,,Lawrence Berkeley National Laboratory,,,,Geological Project Scientist
+Jerome,Edwards,,Cameron-Cole LLC,,,,President & Co-Founder
+Roger,Edson,,NOAA/National Weather Service,,,,Science and Operations Officer
+Christopher,Fischer,,Pellion Technologies,,,,Senior Scientist
+Harry,Feldman,,Computer Sciences Corporation,,,,Senior Computer Scientist
+Anna,Folinsky,,HERE,,,,
+Jason,Diffendal,,Pfizer,,,,Manager
+Tommy,Ebe,,Chemical Abstracts Service,,,,"Senior Scientist, Retired"
+Vishal,Doshi,,,,,,
+Philippe,Cudre-Mauroux,,University of Fribourg,,,,Professor
+Bruce,Daniels,,Univ California Santa Cruz,,,,Hydroclimatology Research
+William,DelHagen,,Self,,,,
+Mavis,Driscoll,,Booz Allen Hamilton,,,,Lead Scientist
+Marc,Davis,,Invention Arts,,,,Chief Scientist and Co-Founder
+Michele,Covell,,Google Inc.,,,,Research Scientist
+Larry,Constantine,,Constantine & Lockwood,,,,Chief Scientist
+Christiane,Collins,,Astellas Pharma Europe,,,,
+Norman,Clerman,,Global Data Consultants,,,,Computer Scientist
+Thomas,Clune,,NASA,,,,Senior Computational Scientist
+Hai,Chen,,"Laboratory for Nuclear Science, MIT",,,,Research Assistant
+Robert,Chen,,Columbia University,,,,Senior Research Scientist
+Steven,Carlson,,Second Chance Energy Solutions,,,,Property Management
+Joseph,Camacho,,NumerEx,,,,Staff Scientist
+Julie,Cohen,,Weill Cornell Medical College,,,,Research Lab Tech II
+Kevin,Chu,,Serendipity Research,,,,Founder/Senior Research Scientist
+Charles,Cadieu,,MIT,,,,Postdoc
+Lawrence,Bush,,,,,,
+George,Lan,,Elsevier,,,,Analytic Product Manager
+Ming,Zheng,,QuantGroup,,,,Data Scientist
+Murtaza,Zafer,,Nyansa Inc.,,,,Data Scientist
+Mehmet,Yunt,,Collective Media,,,,Senior Data Scientist
+Mark,Burstein,,Sift,,,,Principal Scientist
+Brian,Wilt,,Jawbone,,,,Senior Data Scientist
+Mona,Vernon,,Thomson Reuters,,,,"VP, Data Innovation Lab"
+Jonathan,Werberg,,Office of the Attorney General,,,,Data Scientist
+Mark,Wang,,Employee Stock Option (ESO) Fund,,,,Chief Data Scientist
+Emily,Wang,,Uber Technologies,,,,Data Scientist
+Daniel,Tunkelang,,LinkedIn,,,,Principal Data Scientist
+Diyang,Tang,,Twitter Inc,,,,Data Scientist
+Sonia,Timberlake,,AbVitro Inc,,,,Senior Data Scientist
+James,Thornbrue,,UCSD,,,,Data Scientist
+Peter,Swartz,,Panjiva,,,,Data Scientist
+Annette,Taberner,,RetailMeNot,,,,Data Scientist
+Douglas,Twisselmann,,Netflix,,,,Senior Data Scientist
+Victor,Vazquez,,Airbnb,,,,Data Scientist
+Christine,Sowa,,Wayfair,,,,Data Scientist
+David,Shera,,AmeriHealth Caritas Family of Companies,,,,Data Scientist
+Lucas,Schiefelbein,,SumZero,,,,Data Scientist
+Suresh,Segaran,,Metaweb,,,,Senior Data Scientist
+Christopher,Schuch,,Kyruus,,,,Data Scientist
+Jennifer,Seto,,Bloomberg,,,,Data Scientist
+Peter,Skomoroch,,Data Collective,,,,Principal Data Scientist
+Karen,Sittig,,Twitter Inc,,,,Data Scientist
+Sepehr,Sarmadi,,Shutterstock Inc,,,,Data Scientist
+Alexandre,Sahyoun,,Oracle,,,,Data Scientist
+Richard,LaPointe,,Facebook,,,,Data Scientist
+Varun,Ramanujam,,"Facebook, Inc.",,,,Data Scientist
+Jonathan,Rameseder,,Apple Inc.,,,,Data Scientist
+Francis,Lam,,Aetion,,,,Principal Data Scientist
+John,Lakness,,,,,,Data Scientist
+Mauricio,Roman,,Loggly,,,,Data Scientist
+Sharon,Rapoport,,Plaid Technologies Inc.,,,,Data Scientist
+Bharath,Krishnan,,CQuotient,,,,Principal Data Scientist
+Benjamin,Joseph,,"Hello, Inc",,,,Data Scientist
+Aubrey,Jaffer,,Digilent,,,,Data Scientist
+Alexander,Hasha,,Capital One,,,,Applied Data Scientist
+Anh,Huynh,,AdHarmonics,,,,Data Scientist
+Jedidiah,Horne,,Uber,,,,Data Scientist
+Justin,Hemann,,Causata,,,,Principal Data Scientist
+Thomas,Kollar,,Apple Inc,,,,Data Scientist
+Nathan,Janos,,OpenMail,,,,Principal Data Scientist
+Brian,Harms,,Akamai Technologies,,,,Principal Data Scientist
+Scott,Golder,,Context Relevant,,,,Data Scientist and Staff Sociologist
+Miaoqing,Fang,,Facebook,,,,Data Scientist
+Ronald,Focia,,"Aspire Ventures, LLC.",,,,Data Scientist
+Claudia,Gold,,ClassDojo,,,,Data Scientist
+David,Forney,,SmartDrive,,,,Data Scientist/Sr. Statistical Programmer
+first_name,last_name,home_address,company,mit_grad_year,work_address,email,job_title
+Alan,Ratner,,Retired Knowledge Engineer/Data Scientist,,,,Part-time community college math/physics tutor
+Daizhuo,Chen,,Dstillery,,,,Data Scientist
+Matthew,Bruchon,,Booz Allen Hamilton,,,,Data Scientist
+Brock,Bose,,Accenture,,,,Technology Consultant & Data Scientist
+Dean,Cerrato,,PatientsLikeMe,,,,Data Scientist
+Thomas,Alcorn,,Adharmonics,,,,Data Scientist
+Susan,Buchman,,Alcoa Inc.,,,,Senior Data Scientist
+Brian,Cass,,White Ops,,,,Data Scientist
+David,Bermejo,,Packback Books,,,,Marketing Analyst and Data Scientist
+Job,Evers,,Udacity,,,,Data Scientist
+Katie,Everett,,Twitter Inc,,,,Data Scientist
+Esosa,Amayo,,Apple Inc,,,,Data Scientist
+Christopher,Cunningham,,HealthSense,,,,Data Scientist
+Edoardo,Conti,,Uber,,,,Data Scientist
+Sharon,Chou,,"FirstFuel Software, Inc.",,,,Data Scientist
+Miaoqing,Fang,,Facebook,,,,Data Scientist
+Arvind,Prabhakar,,AT&T,,,,Senior Data Scientist
+Nargiss,Mouatta,,Spartz,,,,Jr. Data Scientist
+Thomas,Moyer,,Humetica,,,,data scientist
+Luc,Mehl,,Axiom Data Science,,,,Environmental Data Scientist
+Marlene,Moyer,,International Business Machines Corporat,,,,Data Scientist
+Wojciech,Musial,,Quid,,,,Data Scientist
+Jeffrey,Marcus,,Kayak,,,,Senior Data Scientist
+Ian,Murray,,Humin,,,,Data Scientist
+Joseph,Marr,,SYNTASAâ¢,,,,Senior Principal Data Scientist
+Christopher,Luhrs,,Facebook,,,,Data Scientist
+Walter,Linde-Zwirble,,Trexin Consulting Inc,,,,"Chief Data Scientist, Health Economics"
+Ting,Mao,,GrabTaxi,,,,Data Scientist
+Jonathan,Rameseder,,Apple Inc.,,,,Data Scientist
+David,Lepzelter,,IgnitionOne,,,,Data Scientist
+Uri,Laserson,,Cloudera,,,,Data scientist
+Jialing,Li,,Microsoft Corporation,,,,Data Scientist
+Maokai,Lin,,Smarking Inc,,,,Data Scientist
+Ranee,Brylinski,,Brylinski Research,,,,"Co-Founder, Chief Scientist, Co-CEO"
+Michelle,Bonugli,,CACI International,,,,Senior IT Scientist
+Keith,Bonawitz,,,,,,
+Robert,Bieri,,SAIC Science Applications International Corporation,,,,Senior Engineer
+Frank,Bentley,,Yahoo!,,,,Principal Research Scientist
+Mark,Borowsky,,Novartis Institute for Biomedical Research,,,,"Executive Director, Data Analytics"
+Jeffrey,Borowitz,,Giant Oak,,,,Social Scientist
+Paul,Bayer,,WSI,,,,Chief Scientist
+Richard,Alexander,,Self Employed,,,,
+Terrance,Barker,,HNC Software - Retired,,,,Sr Staff Scientist
+Paul,Acosta,,MIT Laboratory for Nuclear Science,,,,Computer Services Group Manager
+David,Bacon,,Science Applications International Corporation,,,,"Director, Center for Atmospheric Physics"
+Burton,Kaliski,,Verisign,,,,Senior Vice President and CTO
+Erik,Lickerman,,,,,,
+Konstantinos,Arkoudas,,Bloomberg R&D,,,,Senior Computer Scientist
+Anthony,Harkin,,Rochester Institute of Technology,,,,Math Professor
+Ellie,Graeden,,Gryphon Scientific,,,,Division Director Strategic Systems
+Thomas,Hess,,University of Texas at Austin,,,,Research Scientist
+Janet,Johnston,,US Air Force Foreign Military Sales,,,,Scientist/Engineer
+Tristan,Jehan,,The Echo Nest,,,,Co-Founder & CEO
+Kriti,Jain,,,,,,
+Charles,Jankowski,,Performance Technology Partners,,,,Senior Speech Scientist
+Leah,Hutchison,,"Frontier Technology, Inc",,,,Senior Scientist
+Marios,Kagarlis,,"Ventana Systems, Inc",,,,Chief Scientist
+Mohibi,Hussain,,MIT,,,,Strategy consultant
+Samuel,Hokin,,IMS / UW-Madison / Carnegie Institution for Science,,,,Senior Developer / Lecturer / Computational Scientist
+Kris,Homsi,,Nike,,,,sports performance svcs.
+Jennifer,Healey,,Intel Corporation,,,,Research Scientist
+John,Greene,,"SRA International, Inc.",,,,"Senior Director, Bioinformatics"
+Donna,Hendrix,,,,,,
+Gary,Gibian,,QinetiQ North America - Technology Solutions Group,,,,Sr Scientist
+Timothy,Hazen,,Microsoft,,,,Principal Speech Scientist
+Thomas,Furnas,,Molecular Data Corporation,,,,President
+Albert,Galick,,self,,,,self
+Anna,Folinsky,,HERE,,,,
+Heidi,Fox,,"HERE, a Nokia business",,,,Principal Software Engineer
+Douglas,Foxvog,,Enterra Solutions,,,,
+Christopher,Fischer,,Pellion Technologies,,,,Senior Scientist
+Douglas,Fenger,,Dart NeuroScience,,,,Scientist
+Harry,Feldman,,Computer Sciences Corporation,,,,Senior Computer Scientist
+David,Reiley,,Google,,,,Research Scientist
+Michael,Gaidis,,HGST/Western Digital,,,,Technologist
+Andrew,Stein,,Novartis Institute for BioMedical Research,,,,Associate Director
+Jorge,Ortiz,,IBM Research,,,,Research Scientist
+Edward,Sittler,,NASA,,,,Astrophysicist
+Tyrone,Smith,,San Bernardino County,,,,Chief Technology Officer
+David,Shupe,,California Inst of Technology,,,,Senior Staff Scientist
+Ilya,Shlyakhter,,Broad Institute of MIT and Harvard,,,,Computational Biologist
+David,Schissel,,General Atomics,,,,Principal Scientist&Group Leader
+Oded,Shaham,,IBM Research,,,,Research Scientist
+Nathan,Siemers,,Bristol-Myers Squibb,,,,"Director R&D, Applied Genomics"
+Margaret,Sano,,Ocean Surveys,,,,Project Scientist
+David,Saul,,State Street,,,,Senior Vice President & Chief Scientist
+Steven,Scott,,Princeton Univ,,,,Research Physicist
+Jason,Salter,,FivePaths LLC,,,,Partner
+Joseph,Rosenshein,,Ovitz Corporation,,,,Vice President & Chief Technology Officer
+Divya,Pillai,,Argonne National Laboratory,,,,"Intern, Co-op student in the Schabacker Lab"
+Marcelo,Torres,,Akamai Technologies,,,,Research Scientist
+Timur,Shtatland,,Massachusetts General Hospital,,,,Instructor - bioinformatics
+Huai-Min,Zhang,,NOAA National Climatic Data Center,,,,Physical Scientist
+Lamar,Ramos,,Infometrix,,,,Chief Scientist
+Mary,Reppy,,Abacalab Inc,,,,Chief Operations Officer
+Anthony,Polucci,,Veridian,,,,Physicist
+"Coelho,",Pint,,Quantlab Financial,,,,Quantitatiive Developer
+David,Zafrilla-Gonzales,,Synergic Partners,,,,COO CIO (Chief Operations & Innovation Officer)
+Patrick,Wojdowski,,L3 Communications - Ocean Systems Division,,,,Senior Principal Sytems Engineer
+Shivkumar,Venkatasubrahmanyam,,Amgen Inc.,,,,Bioinformatics Scientist
+Aaron,Ucko,,National Library of Medicine,,,,Staff Scientist
+Lloyd,Treinish,,IBM International Business Machines Corporation,,,,Distinguished Engineer
+Edward,Wilson,,INTELLIzation,,,,Chief Scientist
+Sandeep,Tiwari,,Oracle America Inc.,,,,Scientist
+George,Thompson,,Northrop Grumman,,,,RETIRED Senior Scientist
+Christian,Wachinger,,MIT CSAIL Laboratory,,,,Postdoctoral Associate
+Steven,Weiss,,JDA Software,,,,Senior Computer Scientist
+Leonardo,Urbina,,Hubspot,,,,Senior Software Engineering
+Douglas,Stewart,,Climatological Consulting Corporation,,,,Consulting Meteorologist
+Martin,Szummer,,University of Cambridge,,,,Senior Researcher
+Robert,Phair,,Integrative Bioinformatics Inc,,,,Chief Science Officer
+Daniel,Park,,Broad Institute,,,,Computational Biologist
+Stephanie,Orellana,,NineSigma Inc.,,,,"Director, Technology Insights Solutions"
+Kyle,Murray,,oDesk,,,,Research Intern
+Ted,Moore,,American Pacific Corporation,,,,Senior Scientist
+Habib,Najm,,,,,,
+Benjamin,Olasov,,"University of California, San Francisco",,,,
+Samuel,Millington,,Amadeus Data Processing GmBH,,,,System Support Engineer
+Christopher,Moore,,TrueFit,,,,Chief Analytics Officer
+Marian,Nodine,,Elastic Knowledge,,,,Chief Scientist
+Tarjei,Mikkelsen,,Broad Institute,,,,Research Fellow
+Creve,Maples,,Event Horizon Corporation,,,,CEO
+Brian,Mickus,,"Gilead Sciences, Inc.",,,,Research Scientist II
+Lawrence,Lyons,,,,,,
+Matthew,Lockhart,,MIT,,,,Data Analyst
+John,Makhoul,,BBN Technologies,,,,Chief Scientist
+Mark,Lillibridge,,HP,,,,Principal Research Scientist
+Vikas,Mehrotra,,Tiger Consulting Group,,,,"President, Consulting Services"
+Miriam,Krauss,,National Radio Astronomy Observatory,,,,EVLA Commissioning Postdoctoral Fellow
+Deirdre,Kittner,,"Pinney Associates, Inc.",,,,Senior Scientist
+Gilbert,Leung,,Google,,,,Software Engineer
+Stephen,Kent,,Raytheon BBN Technologies,,,,Chief Scientist - Emeritus
+David,Kieda,,Univesity of Utah,,,,"Dean, The Graduate School and Professor"
+Brian,Keegan,,Harvard Business School,,,,Research Associate
+Joseph,Kaye,,Yahoo,,,,Senior Research Scientist
+Martin,Kohn,,Sentrian Remote Patient Intelligence,,,,Chief Medical Scientist
+Alexandros,Kyriakides,,ADITESS Ltd,,,,Software Engineer and Research Scientist
+Daniel,Feldman,,Lawrence Berkeley National Laboratory,,,,Geological Project Scientist
+Jerome,Edwards,,Cameron-Cole LLC,,,,President & Co-Founder
+Roy,Kamimura,,Intrexon,,,,Senior manager
+Manolis,Kamvysselis,,MIT,,,,Professor
+Roger,Edson,,NOAA/National Weather Service,,,,Science and Operations Officer
+Tommy,Ebe,,Chemical Abstracts Service,,,,"Senior Scientist, Retired"
+Vishal,Doshi,,,,,,
+Mavis,Driscoll,,Booz Allen Hamilton,,,,Lead Scientist
+Jason,Diffendal,,Pfizer,,,,Manager
+Bruce,Daniels,,Univ California Santa Cruz,,,,Hydroclimatology Research
+Marc,Davis,,Invention Arts,,,,Chief Scientist and Co-Founder
+William,DelHagen,,Self,,,,
+Patricia,Engel,,Eastern Research Group,,,,Environmental Scientist
+Michele,Covell,,Google Inc.,,,,Research Scientist
+Larry,Constantine,,Constantine & Lockwood,,,,Chief Scientist
+Philippe,Cudre-Mauroux,,University of Fribourg,,,,Professor
+Julie,Cohen,,Weill Cornell Medical College,,,,Research Lab Tech II
+Thomas,Clune,,NASA,,,,Senior Computational Scientist
+Kevin,Chu,,Serendipity Research,,,,Founder/Senior Research Scientist
+Robert,Chen,,Columbia University,,,,Senior Research Scientist
+Christiane,Collins,,Astellas Pharma Europe,,,,
+Norman,Clerman,,Global Data Consultants,,,,Computer Scientist
+Steven,Carlson,,Second Chance Energy Solutions,,,,Property Management
+Hai,Chen,,"Laboratory for Nuclear Science, MIT",,,,Research Assistant
+Charles,Cadieu,,MIT,,,,Postdoc
+Lawrence,Bush,,,,,,
+Ming,Zheng,,QuantGroup,,,,Data Scientist
+Mark,Burstein,,Sift,,,,Principal Scientist
+Mona,Vernon,,Thomson Reuters,,,,"VP, Data Innovation Lab"
+Joseph,Camacho,,NumerEx,,,,Staff Scientist
+Murtaza,Zafer,,Nyansa Inc.,,,,Data Scientist
+George,Lan,,Elsevier,,,,Analytic Product Manager
+Mehmet,Yunt,,Collective Media,,,,Senior Data Scientist
+Brian,Wilt,,Jawbone,,,,Senior Data Scientist
+Emily,Wang,,Uber Technologies,,,,Data Scientist
+Jonathan,Werberg,,Office of the Attorney General,,,,Data Scientist
+Mark,Wang,,Employee Stock Option (ESO) Fund,,,,Chief Data Scientist
+Daniel,Tunkelang,,LinkedIn,,,,Principal Data Scientist
+Sonia,Timberlake,,AbVitro Inc,,,,Senior Data Scientist
+Douglas,Twisselmann,,Netflix,,,,Senior Data Scientist
+James,Thornbrue,,UCSD,,,,Data Scientist
+Diyang,Tang,,Twitter Inc,,,,Data Scientist
+Annette,Taberner,,RetailMeNot,,,,Data Scientist
+Peter,Swartz,,Panjiva,,,,Data Scientist
+Colin,Taylor,,Ginger.io,,,,Software Engineer / Data Scientist
+Christine,Sowa,,Wayfair,,,,Data Scientist
+Peter,Skomoroch,,Data Collective,,,,Principal Data Scientist
+Victor,Vazquez,,Airbnb,,,,Data Scientist
+Karen,Sittig,,Twitter Inc,,,,Data Scientist
+Jennifer,Seto,,Bloomberg,,,,Data Scientist
+Suresh,Segaran,,Metaweb,,,,Senior Data Scientist
+Christopher,Schuch,,Kyruus,,,,Data Scientist
+Lucas,Schiefelbein,,SumZero,,,,Data Scientist
+Alexandre,Sahyoun,,Oracle,,,,Data Scientist
+Mauricio,Roman,,Loggly,,,,Data Scientist
+David,Shera,,AmeriHealth Caritas Family of Companies,,,,Data Scientist
+Varun,Ramanujam,,"Facebook, Inc.",,,,Data Scientist
+Sharon,Rapoport,,Plaid Technologies Inc.,,,,Data Scientist
+Francis,Lam,,Aetion,,,,Principal Data Scientist
+Sepehr,Sarmadi,,Shutterstock Inc,,,,Data Scientist
+Jason,Ventrella,,MITRE,,,,Principal Data Scientist
+John,Lakness,,,,,,Data Scientist
+Bharath,Krishnan,,CQuotient,,,,Principal Data Scientist
+Richard,LaPointe,,Facebook,,,,Data Scientist
+Benjamin,Joseph,,"Hello, Inc",,,,Data Scientist
+Anh,Huynh,,AdHarmonics,,,,Data Scientist
+Jedidiah,Horne,,Uber,,,,Data Scientist
+Nathan,Janos,,OpenMail,,,,Principal Data Scientist
+Aubrey,Jaffer,,Digilent,,,,Data Scientist
+Alexander,Hasha,,Capital One,,,,Applied Data Scientist
+Brian,Harms,,Akamai Technologies,,,,Principal Data Scientist
+Justin,Hemann,,Causata,,,,Principal Data Scientist
+Scott,Golder,,Context Relevant,,,,Data Scientist and Staff Sociologist
+Claudia,Gold,,ClassDojo,,,,Data Scientist
+Ronald,Focia,,"Aspire Ventures, LLC.",,,,Data Scientist
+David,Forney,,SmartDrive,,,,Data Scientist/Sr. Statistical Programmer
+Christine,Choi,,LinkedIn,,,,Data Scientist
+Thomas,Kollar,,Apple Inc,,,,Data Scientist
