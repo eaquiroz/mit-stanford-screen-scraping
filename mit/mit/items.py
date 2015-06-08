@@ -18,4 +18,3 @@ class MitItem(scrapy.Item):
     work_address = scrapy.Field()
     job_title = scrapy.Field()
     email = scrapy.Field()
-    mit_grad_year = scrapy.Field()
